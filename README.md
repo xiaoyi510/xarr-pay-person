@@ -14,3 +14,7 @@
 ## 支持接口协议
 * XArr
 * 易支付
+
+
+# 测试地址
+https://xarr-tpay.52nyg.com
